@@ -190,14 +190,9 @@ Gemini → extremely short and to the point.
 
 **Best Use Case:** GPT-5 for summaries with more substance; Gemini for strict length limits (tweets, SMS).
 
-Overall Comparative Evaluation
-Prompt Type	GPT-5 Strength	Gemini Strength	Best Use Case
-Comparative Analysis	Tabular clarity	Ethical depth	Formal decision reports
-Experiential	Usability focus	Storytelling depth	Patient experience design
-Everyday Functioning	Clear checklist	Social/companionship	Elderly support systems
-Universal	Helper analogy	Friend analogy	Education, awareness
-Structured Refinement	Bullet precision	Essay expansion	Planning vs. documentation
-Size Limitations	Balanced detail	Ultra-concise	Summaries, SMS formats
+# Overall Comparative Evaluation
+<img width="956" height="337" alt="Screenshot 2025-09-21 213635" src="https://github.com/user-attachments/assets/42847ec5-0b71-455d-9ed0-885f44156ec9" />
+
 **Conclusion**
 This scenario-based report illustrates that different prompting techniques unlock different strengths of AI tools. For an AI healthcare chatbot:
 
